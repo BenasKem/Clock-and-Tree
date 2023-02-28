@@ -1,0 +1,15 @@
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\bin\Debug\net7.0\Clock-Tree.exe
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\bin\Debug\net7.0\Clock-Tree.deps.json
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\bin\Debug\net7.0\Clock-Tree.runtimeconfig.json
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\bin\Debug\net7.0\Clock-Tree.dll
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\bin\Debug\net7.0\Clock-Tree.pdb
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\obj\Debug\net7.0\Clock-Tree.csproj.AssemblyReference.cache
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\obj\Debug\net7.0\Clock-Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\obj\Debug\net7.0\Clock-Tree.AssemblyInfoInputs.cache
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\obj\Debug\net7.0\Clock-Tree.AssemblyInfo.cs
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\obj\Debug\net7.0\Clock-Tree.csproj.CoreCompileInputs.cache
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\obj\Debug\net7.0\Clock-Tree.dll
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\obj\Debug\net7.0\refint\Clock-Tree.dll
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\obj\Debug\net7.0\Clock-Tree.pdb
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\obj\Debug\net7.0\Clock-Tree.genruntimeconfig.cache
+C:\Users\benke\Documents\GitHub\Clock-and-Tree\Clock-Tree\Clock-Tree\obj\Debug\net7.0\ref\Clock-Tree.dll
